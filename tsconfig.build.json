@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    { "path": "service/main/tsconfig.build.json" },
+    { "path": "lib/math/tsconfig.build.json" },
+    { "path": "lib/string/tsconfig.build.json" }
+  ]
+}

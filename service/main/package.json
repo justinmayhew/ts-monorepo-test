@@ -1,0 +1,13 @@
+{
+  "name": "@company/service-main",
+  "version": "0.0.1",
+  "private": true,
+  "main": "dist/main.js",
+  "dependencies": {
+    "@company/lib-math": "*",
+    "@company/lib-string": "*"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}

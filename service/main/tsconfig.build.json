@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["**/*.test.ts"],
+  "references": [
+    { "path": "../../lib/math/tsconfig.build.json" },
+    { "path": "../../lib/string/tsconfig.build.json" }
+  ]
+}
